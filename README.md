@@ -78,7 +78,7 @@ The dashboard presents the analysis in a format suitable for business interpreta
 ## Dashboard Preview
 
 ### Sales Summary
-![Sales Summary Dashboard](assets/coffee_sales_summary.png)
+![Sales Summary Dashboard](assets/coffe_sales_summary.png)
 
 ### Product Performance
 ![Product Performance Dashboard](assets/product_performance.png)
